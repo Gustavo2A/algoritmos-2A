@@ -1,5 +1,3 @@
-#promedio.js
-
 function calcularPromedio() { // 1. Inicio
 //2. Definir c1, c2, c3, c4, c5, promedio
   var c1;
